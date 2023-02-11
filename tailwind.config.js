@@ -1,4 +1,7 @@
 /** @type {import('tailwindcss').Config} */
+
+const defaultTheme = require(`tailwindcss/defaultTheme`);
+
 module.exports = {
   content: [`./build/*.{html, js}`],
   theme: {
@@ -19,7 +22,7 @@ module.exports = {
         alabaster: "hsl(231, 100%, 99%)",
       },
       fontFamily: {
-        sans: "Ubuntu",
+        sans: ["Ubuntu", ...defaultTheme.fontFamily.sans],
       },
     },
   },
