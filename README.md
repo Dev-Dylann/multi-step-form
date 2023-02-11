@@ -10,7 +10,6 @@ This is a solution to the [Multi-step form challenge on Frontend Mentor](https:/
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
@@ -26,7 +25,7 @@ Users should be able to:
 - View the optimal layour for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
 
-### Screnshot
+### Screenshots
 
 ![Step 1](./build/assets/images/step1.png)
 
@@ -38,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [View Code](https://)
-- Live Site URL: [View Live](https://)
+- Solution URL: [View Code](https://github.com/Dev-Dylann/multi-step-form)
+- Live Site URL: [View Live](https://dev-dylann.github.io/multi-step-form/build/)
 
 ## My Process
 
@@ -49,8 +48,6 @@ Users should be able to:
 - [Tailwind CSS](https://tailwindcss.com/) - CSS Framework
 - Mobile-first workflow
 
-### What I Learned
-
 ### Useful Resources
 
 - [Tailwind Docs](https://tailwindcss.com/docs/) - This helped me search for Tailwind classes of certain styles I wanted to apply but couldn't remember.
@@ -58,8 +55,8 @@ Users should be able to:
 
 ## Author
 
-- Twitter - [@DevDylan](https://www.twitter.com/DevDylan)
+- Twitter - [@DevDylan](https://twitter.com/TunmiseTubi)
 
 ## Acknowledgements
 
-[@dudeontwitter](https://twitter.com/dudeontwitter) really helped me in the last stages of this challenge where I happened to be stuck. I appreciate his efforts and the assistance he offered.
+[@Abdullah Ayoola](https://twitter.com/officialayo540) really helped me in the last stages of this challenge where I happened to be stuck. I appreciate his efforts and the assistance he offered.
