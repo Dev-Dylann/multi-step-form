@@ -22,7 +22,7 @@ module.exports = {
         alabaster: "hsl(231, 100%, 99%)",
       },
       fontFamily: {
-        sans: ["Ubuntu", ...defaultTheme.fontFamily.sans],
+        sans: ['Ubuntu', ...defaultTheme.fontFamily.sans],
       },
     },
   },
