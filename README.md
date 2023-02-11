@@ -40,12 +40,11 @@ Users should be able to:
 - Solution URL: [View Code](https://github.com/Dev-Dylann/multi-step-form)
 - Live Site URL: [View Live](https://dev-dylann.github.io/multi-step-form/build/)
 
-## My Process
-
 ### Built with
 
 - Semantic HTML5 markup
 - [Tailwind CSS](https://tailwindcss.com/) - CSS Framework
+- Icons from [Font Awesome](https://fontawesome.com/search?m=free&o=r)
 - Mobile-first workflow
 
 ### Useful Resources
